@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website for Dr. Hafiz Iftikhar Hussain, Assistant Professor & Director of Central Diagnostic Laboratory at CUVAS Bahawalpur, Pakistan.
 
-![Portfolio Preview](https://via.placeholder.com/1200x630/2563eb/ffffff?text=Dr.+Hafiz+Iftikhar+Hussain+Portfolio)
+![Portfolio Preview](src/assets/preview.png)
 
 ## 👨‍⚕️ About Dr. Hafiz Iftikhar Hussain
 
