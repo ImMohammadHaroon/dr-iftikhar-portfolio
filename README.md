@@ -180,3 +180,5 @@ This project is created for educational/personal use.
 ---
 
 *Built with ❤️ using React + Tailwind CSS*
+
+*Last updated: May 2026*
